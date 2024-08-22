@@ -265,3 +265,4 @@ D:\Pruebas de Software\prueba_p3\SpecFlowTest\bin\Debug\net8.0\WebApplication1.p
 D:\Pruebas de Software\prueba_p3\SpecFlowTest\obj\Debug\net8.0\SpecFlow.4B1CFD4D.Up2Date
 D:\Pruebas de Software\prueba_p3\SpecFlowTest\obj\Debug\net8.0\SpecFlowTest.genruntimeconfig.cache
 D:\Pruebas de Software\prueba_p3\SpecFlowTest\obj\Debug\net8.0\ref\SpecFlowTest.dll
+D:\Pruebas de Software\prueba_p3\SpecFlowTest\obj\Debug\net8.0\SpecFlowTest.sourcelink.json
